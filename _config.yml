@@ -11,7 +11,6 @@ email: info@joecarroll.io
 description: A peek under the covers of how (I think) software works and is made.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://joecarroll.io" # the base hostname & protocol for your site
-twitter_username: 
 github_username:  josephcarroll
 
 # Build settings
