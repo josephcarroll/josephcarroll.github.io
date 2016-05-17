@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm a software developer (engineer? programmer?) in the Finance industry, iced coffee drinker, somewhat consistent gym goer and occasional writer. I was born in the UK (Luton to be specific!) but now live in Brooklyn with my fiancée Hannah and cat Oliver.
+Joe is software developer in the finance world. A self-proclaimed Scala nerd, Joe's other interests include reading, weightlifting, and woodworking and his been known to start the day with an iced coffee or five. 
+
+Originally from Luton, England, Joe now lives in Brooklyn with his fiancé Hannah and his cat Oliver. 
